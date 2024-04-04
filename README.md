@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The visual modality is MNIST.
+The visual modality is [MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html).
 
 The audio modality is the [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset).
 
